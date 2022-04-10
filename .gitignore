@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.env
+.flaskenv
+*.csv
+x.py
+*.ipynb
+.idea/
+__pycache__/
+venv/
+migrations/
